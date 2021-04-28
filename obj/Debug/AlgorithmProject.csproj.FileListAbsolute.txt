@@ -1,0 +1,88 @@
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\bin\Debug\AlgorithmProject.exe.config
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\bin\Debug\AlgorithmProject.exe
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\bin\Debug\AlgorithmProject.pdb
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.Form1.resources
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.exe
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.pdb
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.scs.resources
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.lcs.resources
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.ld.resources
+C:\Users\Lenovo\Desktop\C# basics\AlgorithmProject\obj\Debug\AlgorithmProject.lcd.resources
+E:\ALGO PROJECT\AlgorithmProject\bin\Debug\AlgorithmProject.exe.config
+E:\ALGO PROJECT\AlgorithmProject\bin\Debug\AlgorithmProject.exe
+E:\ALGO PROJECT\AlgorithmProject\bin\Debug\AlgorithmProject.pdb
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.csprojAssemblyReference.cache
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.Form1.resources
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.lcd.resources
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.ld.resources
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.scs.resources
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.Properties.Resources.resources
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.lcs.resources
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.GenerateResource.cache
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.CoreCompileInputs.cache
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.exe
+E:\ALGO PROJECT\AlgorithmProject\obj\Debug\AlgorithmProject.pdb
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\bin\Debug\AlgorithmProject.exe.config
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\bin\Debug\AlgorithmProject.exe
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\bin\Debug\AlgorithmProject.pdb
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.Form1.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.lcd.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.ld.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.scs.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.lcs.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.exe
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.pdb
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.matrix.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.part.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.coin.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.knap.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.rod.resources
+C:\Users\Lenovo\Desktop\AlgoProject Codes\AlgorithmProject\obj\Debug\AlgorithmProject.word.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.csprojAssemblyReference.cache
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.coin.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.Form1.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.rod.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.knap.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.lcd.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.ld.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.matrix.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.part.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.scs.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.Properties.Resources.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.lcs.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.word.resources
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.GenerateResource.cache
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.CoreCompileInputs.cache
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.exe
+E:\AlgorithmProject\obj\Debug\AlgorithmProject.pdb
+E:\AlgorithmProject\bin\Debug\AlgorithmProject.exe.config
+E:\AlgorithmProject\bin\Debug\AlgorithmProject.exe
+E:\AlgorithmProject\bin\Debug\AlgorithmProject.pdb
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\bin\Debug\AlgorithmProject.exe.config
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\bin\Debug\AlgorithmProject.exe
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\bin\Debug\AlgorithmProject.pdb
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.coin.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.Form1.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.rod.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.knap.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.lcd.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.ld.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.matrix.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.part.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.scs.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.lcs.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.word.resources
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.exe
+C:\Users\Lenovo\Desktop\Algorithm Project\AlgorithmProject\obj\Debug\AlgorithmProject.pdb
